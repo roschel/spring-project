@@ -1,5 +1,6 @@
 package com.projeto.course.entities.pk;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.projeto.course.entities.Order;
 import com.projeto.course.entities.Product;
 
